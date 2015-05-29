@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1430997434 source:/home/raviabhiram/programs/CG/lab/9.ScanLine/main.cpp
+	<iostream>
+	<GL/glut.h>
+
